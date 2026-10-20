@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok Shop 美区商家自播助手"
+  short_description: "将自播课程转化为首播、拍卖五步脚本、混场选品、邮费合单与利润复盘方案"
+  default_prompt: "使用 $tiktok-shop-us-seller-live，结合我的商家阶段和现有资料，生成可执行的自播方案。"
